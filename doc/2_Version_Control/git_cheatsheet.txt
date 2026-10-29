@@ -1,0 +1,11 @@
+git commit
+git branch
+git checkout
+git pull
+git push
+git merge
+git rebase
+git fetch
+
+I don't have time to do description! (I'm Shirazi :D)
+
