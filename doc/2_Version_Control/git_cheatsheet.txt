@@ -7,5 +7,9 @@ git merge
 git rebase
 git fetch
 
+git add
+git status
+git log
+
 I don't have time to do description! (I'm Shirazi :D)
 
